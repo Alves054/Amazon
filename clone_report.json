@@ -1,0 +1,27 @@
+{
+  "base_url": "https://amazon-pedido-personalizado.com/cliente?id=04e6a266-20c6-4d2e-a1f7-6bf45f99062c",
+  "domain": "amazon-pedido-personalizado.com",
+  "timestamp": 1770769507.674917,
+  "pages_downloaded": 7,
+  "assets_downloaded": 3,
+  "pages": [
+    "https://amazon-pedido-personalizado.com/gp/yourstore/iyr?collection=purchased&ref_=pd_cer_fm",
+    "https://amazon-pedido-personalizado.com/ref=co_typ",
+    "https://amazon-pedido-personalizado.com/cliente?id=04e6a266-20c6-4d2e-a1f7-6bf45f99062c",
+    "https://amazon-pedido-personalizado.com/dp/B0D1VX3L5H?psc=1&smid=A3M8RTLAGE1PWT&ref_=chk_typ_imgToDp",
+    "https://amazon-pedido-personalizado.com/gp/history",
+    "https://amazon-pedido-personalizado.com/gp/site-directory?ref_=nav_em_js_disabled",
+    "https://amazon-pedido-personalizado.com/ref=footer_logo"
+  ],
+  "assets": [
+    "https://amazon-pedido-personalizado.com/static/img/logo1.png",
+    "https://amazon-pedido-personalizado.com/static/style1.css",
+    "https://amazon-pedido-personalizado.com/static/img/amazon_ico.png"
+  ],
+  "statistics": {
+    "html_pages": 0,
+    "css_files": 1,
+    "js_files": 0,
+    "images": 2
+  }
+}
