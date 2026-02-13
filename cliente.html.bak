@@ -31,8 +31,8 @@
 <meta content="on" http-equiv="x-dns-prefetch-control"/>
 <link crossorigin="" href="https://images-na.ssl-images-amazon.com" rel="preconnect"/>
 <link crossorigin="" href="https://m.media-amazon.com" rel="preconnect"/>
-<link href="amazon_ico.png" rel="icon" type="image/png"/>
-<link href="amazon_ico.png" rel="apple-touch-icon"/>
+<link href="images/amazon_ico.png" rel="icon" type="image/png"/>
+<link href="/static/img/amazon_ico.png" rel="apple-touch-icon"/>
 <!-- <link rel="stylesheet" href="/static/mobile.css?v=1" media="all"> -->
 <!-- sp:end-feature:cs-optimization -->
 <!-- sp:feature:csm:head-open-part2 -->
@@ -13134,7 +13134,7 @@ document.addEventListener('DOMContentLoaded', () => {
 <a href="#">Termos e privacidade</a>
 </div>
 <div class="footer-logo">
-<img alt="Amazon" src="logo1.png"/>
+<img alt="Amazon" src="images/logo1.png"/>
 <span class="footer-domain">.com.br</span>
 </div>
 <p class="footer-copy">
